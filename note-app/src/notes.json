@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "Important Note",
+      "description": "This note contains important information.",
+      "color": "red"
+    },
+    {
+      "title": "Reminder",
+      "description": "Remember to attend the meeting at 2 PM.",
+      "color": "purple"
+    },
+    {
+      "title": "Ideas",
+      "description": "Note down any creative ideas that come to mind.",
+      "color": "orange"
+    },
+    {
+      "title": "Grocery List",
+      "description": "Milk, eggs, bread, and fruits.",
+      "color": "green"
+    },
+    {
+      "title": "Books to Read",
+      "description": "1. 'Sapiens: A Brief History of Humankind' by Yuval Noah Harari\n2. 'The Alchemist' by Paulo Coelho\n3. 'Educated' by Tara Westover",
+      "color": "purple"
+    },
+    {
+      "title": "Workout Routine",
+      "description": "Monday: Cardio\nTuesday: Upper body strength training\nWednesday: Rest day\nThursday: Lower body strength training\nFriday: Cardio\nSaturday: Yoga\nSunday: Rest day",
+      "color": "blue"
+    }
+  ]
+}
